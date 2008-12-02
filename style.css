@@ -1,0 +1,45 @@
+body {
+	font-family: 'Helvetica', 'Arial', sans-serif;
+	color: #222222;	
+}
+p {
+	margin: 2px;
+	padding-top: 0px;
+    font-size: 72px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.checklistHead{
+	font-size: 30px;
+	padding:2px;
+	margin:0;
+}
+div.toChecklist{
+	text-align:right;
+	font-size:18px;
+	padding-right:5px;
+	padding-top:10px;
+}
+div.toMain{
+	text-align:left;
+	font-size:18px;
+	padding-right:5px;
+	padding-bottom:10px;
+}
+
+ul{
+	padding-left:5px;
+	margin-top:5px;
+}
+li{
+	font-size: 20px;
+	padding: 3px 0;
+	list-style: none;
+}
+input{
+	font-size: 40px;
+	vertical-align: middle;
+	margin:0;
+	margin-right: 10px;
+	padding:0;
+}
