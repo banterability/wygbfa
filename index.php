@@ -5,7 +5,7 @@
 	require_once 'header.php';
 	?>
 
-<p>When you get back from Australia <a href="http://whenyougetbackfromaustralia.com">
+<p>When you get back from Australia <a href="index.php">
 <?=$witty[$choice]?>
 </a>.</p>
 
