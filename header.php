@@ -2,8 +2,8 @@
 	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 	
 <!--
-		For Leigh, October 2008
-		Prior art: http://barackobamaisyournewbicycle.com/
+    Code forked from http://whenyougetbackfromaustralia.com/ (For Leigh, October 2008)
+    Prior art @ http://barackobamaisyournewbicycle.com/
 -->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
